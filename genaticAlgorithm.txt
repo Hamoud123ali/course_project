@@ -1,0 +1,20 @@
+Initialization: Create an initial random population.
+Generations Loop:
+Evaluation: Calculate fitness scores for all individuals.
+Selection: Select parents based on fitness.
+Crossover: Produce children from parents.
+Mutation: Apply random mutations to the children.
+Solution Identification: After the last generation, select the best individual based on fitness as the solution.
+
+
+0 0 0 1 0 0 0 1 1 1
+0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 1 1 1 1 0 1 0 0
+0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0
+1 1 0 0 0 0 1 0 0 0
+0 0 0 0 1 0 0 1 0 0
+
